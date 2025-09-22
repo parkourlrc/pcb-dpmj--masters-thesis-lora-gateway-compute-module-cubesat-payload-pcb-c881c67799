@@ -7,16 +7,15 @@ This project is a continuation of my previous master's thesis: [Hardware design 
 Third-party desing elements included in this repository are subject to the copyright of their respective owners.
 
 ```bibtex
-@phdthesis{dpmj-master-thesis-2024,
+@phdthesis{dpmj-master-thesis-2025,
     author = {{Del Pino Mena}, Juan},
-    title = {Development of a {LoRa}-based communications payload for {CubeSat}},
+    title = {Development of a {CubeSat} payload for in-orbit computing and {LoRa} communications},
     school = {Universitat Politècnica de València},
-    year = {2024},
+    year = {2025},
     month = {9},
     address = {València, Spain},
     type = {Master's thesis},
-    url = {https://riunet.upv.es/handle/10251/209572},
-    doi = {https://doi.org/10.5281/zenodo.13935118}
+    doi = {https://doi.org/10.5281/zenodo.16641815}
 }
 ```
 
