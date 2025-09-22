@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d3d5734c-9aed-4215-8387-6d60594e095f")
+	(paper "A4")
+	(title_block
+		(date "2025-05-22")
+		(rev "0.1")
+		(company "Pluton UPV, GAM-iTEAM-UPV")
+		(comment 1 "Universitat Politècnica de Valencia")
+		(comment 2 "Juan Del Pino Mena")
+		(comment 3 "Development of a CubeSat payload for in-orbit computing and LoRa communications")
+		(comment 4 "Master’s Thesis in Telecommunications Engineering")
+	)
+	(lib_symbols)
+)

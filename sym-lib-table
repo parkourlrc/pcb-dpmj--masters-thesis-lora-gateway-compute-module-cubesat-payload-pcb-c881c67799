@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM5")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/CM5.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Modems_LoRa")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/RF_Modems_LoRa.kicad_sym")(options "")(descr ""))
+  (lib (name "rf")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/rf.kicad_sym")(options "")(descr ""))
+  (lib (name "eFuse_TPS259472x")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/eFuse_TPS259472x.kicad_sym")(options "")(descr ""))
+  (lib (name "ADC_TLA202x")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/ADC_TLA202x.kicad_sym")(options "")(descr ""))
+  (lib (name "dcdc_TPS62912")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/dcdc_TPS62912.kicad_sym")(options "")(descr ""))
+  (lib (name "connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/connectors.kicad_sym")(options "")(descr ""))
+)

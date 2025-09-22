@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9c7f6c93-92f0-45bb-9ca0-1b9d738e3006")
+	(paper "A4")
+	(title_block
+		(title "EB 1: LoRa modems evaluation board")
+		(date "2025-01-17")
+		(rev "0.1")
+		(company "Pluton UPV, GAM-iTEAM-UPV")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,102 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6519ba25-69a3-494c-afe1-cbd4ff24dd2b")
+	(paper "A4")
+	(title_block
+		(title "Power Supply")
+		(date "2025-05-22")
+		(rev "0.1")
+		(company "Pluton UPV, GAM-iTEAM-UPV")
+		(comment 1 "Universitat Politècnica de Valencia")
+		(comment 2 "Juan Del Pino Mena")
+		(comment 3 "Development of a CubeSat payload for in-orbit computing and LoRa communications")
+		(comment 4 "Master’s Thesis in Telecommunications Engineering")
+	)
+	(lib_symbols)
+	(sheet
+		(at 63.5 167.64)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "30e3f264-1aec-4ad3-8b6a-b958ef7b7ed3")
+		(property "Sheetname" "3.2.1-psu-digital"
+			(at 63.5 166.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3.2.1-psu-digital.kicad_sch"
+			(at 63.5 193.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lora-payload"
+				(path "/4e3ff538-6ba7-40c0-b5b1-14f5114b4629/0e0fd702-a470-4b79-b4bc-c33a51c0d0e1/42bc16f4-c822-42de-9470-0f60a0c8844e"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 167.64)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7a31d6d5-22d5-4fb2-87e3-7b2efe87aba7")
+		(property "Sheetname" "3.2.2-psu-rf"
+			(at 101.6 166.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "3.2.2-psu-rf.kicad_sch"
+			(at 101.6 193.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "lora-payload"
+				(path "/4e3ff538-6ba7-40c0-b5b1-14f5114b4629/0e0fd702-a470-4b79-b4bc-c33a51c0d0e1/42bc16f4-c822-42de-9470-0f60a0c8844e"
+					(page "19")
+				)
+			)
+		)
+	)
+)

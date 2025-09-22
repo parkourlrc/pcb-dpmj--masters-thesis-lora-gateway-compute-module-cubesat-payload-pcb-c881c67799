@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CM5")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/CM5.pretty")(options "")(descr ""))
+  (lib (name "sx1302")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/sx1302.pretty")(options "")(descr ""))
+  (lib (name "VQFN-10-HR")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/VQFN-10-HR.pretty")(options "")(descr ""))
+  (lib (name "logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/logos.pretty")(options "")(descr ""))
+  (lib (name "testpoint")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/testpoint.pretty")(options "")(descr ""))
+  (lib (name "Connector_CSKB")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/Connector_CSKB.pretty")(options "")(descr ""))
+  (lib (name "X2QFN-10")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/X2QFN-10.pretty")(options "")(descr ""))
+  (lib (name "rf")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/rf.pretty")(options "")(descr ""))
+  (lib (name "shield")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/shield.pretty")(options "")(descr ""))
+)
